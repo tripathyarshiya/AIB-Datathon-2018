@@ -7,6 +7,8 @@ The Challenge this year was separated into two problems:
 
 ** Please Note we carried out three different types of training for the sentiment analysis, and in the end we used the Sentiment Analysis 3 code for final submission as it had higher accuracy compared to other two methods.
 
+** Further, after the competition, we tried to improve our classification model using more NLP techniques
+
 The use of external datasets is permitted.
 The use of external APIs is NOT permitted.
 
